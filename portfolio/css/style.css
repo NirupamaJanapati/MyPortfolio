@@ -719,19 +719,12 @@ li.profile-subtitle-text::before {
 
 
 
-
-
-
 /*footer section */
-/*
+
 footer {
-	position: relative;
-	top:150px;
 	margin:auto;
-  	width: 75%;
-  	background-color: #fff;
   	padding:15px 50px;
-} */
+} 
 
 footer p {
 	text-align: center;
